@@ -70,4 +70,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 For inquiries or collaborations, reach out via [mir786mushaid@gmail.com](mailto:your.email@example.com).
 
 ---
-🎯 **"Transforming urban traffic management with AI-powered real-time insights."** 🚦
+🎯 **Transforming urban traffic management with AI-powered real-time insights.** 🚦
